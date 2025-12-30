@@ -1,0 +1,5 @@
+{
+  "name": "代購明細",
+  "description": "A comprehensive sales tracking application for cross-border sellers. Track costs in JPY, calculate profits in local currency, visualize trends, and export data to Excel/CSV. Features AI-powered sales analysis.",
+  "requestFramePermissions": []
+}
